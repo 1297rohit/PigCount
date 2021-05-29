@@ -1,4 +1,6 @@
-﻿# Custom Vision Export Object Detection Models
+#To get the images from video run extract_unique_frames_from_video.py 
+## Update the video file name and run the code
+# Custom Vision Export Object Detection Models
 This model is exported from [Custom Vision Service](https://customvision.ai)
 
 ## Prerequisites
