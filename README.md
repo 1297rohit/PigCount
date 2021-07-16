@@ -1,7 +1,6 @@
 # To get the images from video run extract_unique_frames_from_video.py 
 ## Update the video file name and run the code
 # Custom Vision Export Object Detection Models
-This model is exported from [Custom Vision Service](https://customvision.ai)
 
 ## Prerequisites
 (For TensorFlow Lite model) TensorFlow Lite 2.1 or newer
@@ -19,6 +18,3 @@ Probability for each detected boxes.
 * detected_classes
 The class index for the detected boxes.
 
-# Reference
-* [Custom Vision Service documentation](https://docs.microsoft.com/en-us/azure/cognitive-services/custom-vision-service/)
-* [Sample scripts](https://github.com/Azure-Samples/customvision-export-samples)
